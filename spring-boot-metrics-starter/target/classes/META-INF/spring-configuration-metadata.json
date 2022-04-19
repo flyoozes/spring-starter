@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "metrics",
+      "type": "ru.tfs.autoconfigure.MetricsProperties",
+      "sourceType": "ru.tfs.autoconfigure.MetricsProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "metrics.enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "ru.tfs.autoconfigure.MetricsProperties"
+    },
+    {
+      "name": "metrics.limit",
+      "type": "java.lang.Integer",
+      "sourceType": "ru.tfs.autoconfigure.MetricsProperties"
+    }
+  ],
+  "hints": []
+}
